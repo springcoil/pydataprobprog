@@ -3,7 +3,7 @@ cycler==0.10.0
 h5py==2.8.0
 joblib==0.12.2
 kiwisolver==1.0.1
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 matplotlib==2.2.3
 numpy==1.14.3
