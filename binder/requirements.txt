@@ -19,3 +19,4 @@ six==1.11.0
 Theano==1.0.2
 tornado==5.1
 tqdm==4.24.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
