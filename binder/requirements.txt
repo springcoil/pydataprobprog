@@ -17,5 +17,5 @@ scipy==1.1.0
 seaborn==0.9.0
 six==1.11.0
 Theano==1.0.2
-tornado==5.1
+tornado==6.3.2
 tqdm==4.24.0
